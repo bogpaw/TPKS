@@ -1,0 +1,42 @@
+PCAD Importer Log
+Project : Імпульсний ліхтарик.PrjPcb
+
+Section : D:\University\TPKS\Імпульсний ліхтарик.SCH
+    Section : Parsing Messages
+        Warning - 1 : Skipping Token defaultPinDes On Line 133
+        Warning - 1 : Skipping Token defaultPinDes On Line 141
+        Warning - 1 : Skipping Token defaultPinDes On Line 157
+        Warning - 1 : Skipping Token defaultPinDes On Line 165
+        Warning - 1 : Skipping Token defaultPinDes On Line 187
+        Warning - 1 : Skipping Token defaultPinDes On Line 195
+        Warning - 1 : Skipping Token defaultPinDes On Line 241
+        Warning - 1 : Skipping Token defaultPinDes On Line 248
+        Warning - 1 : Skipping Token defaultPinDes On Line 266
+        Warning - 1 : Skipping Token defaultPinDes On Line 274
+        Warning - 1 : Skipping Token defaultPinDes On Line 282
+        Warning - 1 : Skipping Token defaultPinDes On Line 306
+        Warning - 1 : Skipping Token defaultPinDes On Line 314
+        Warning - 1 : Skipping Token defaultPinDes On Line 322
+        Warning - 1 : Skipping Token gridDfns On Line 629
+        Warning - 1 : Skipping Token refPointSize On Line 634
+        Warning - 1 : Skipping Token infoPointSize On Line 635
+        Warning - 1 : Skipping Token junctionSize On Line 636
+        Warning - 1 : Skipping Token refPointSizePrint On Line 637
+        Warning - 1 : Skipping Token infoPointSizePrint On Line 638
+        Warning - 1 : Skipping Token junctionSizePrint On Line 639
+        Warning - 1 : Skipping Token PrintRegion On Line 747
+        Warning - 1 : Skipping Token schematicPrintSettings On Line 749
+        Warning - 1 : Skipping Token ecoState On Line 764
+        Warning - 1 : Skipping Token currentTextStyle On Line 765
+        Warning - 1 : Skipping Token reportSettings On Line 768
+    EndSection
+
+    Section : Generating SCH Library - Імпульсний ліхтарик.SchLib
+    EndSection
+
+    Section : Generating SCH Sheet - Sheet1.SCHDOC
+    EndSection
+
+    Section : Analyzing SCH Sheet - Sheet1.SCHDOC
+    EndSection
+EndSection
